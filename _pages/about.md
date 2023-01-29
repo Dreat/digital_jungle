@@ -4,6 +4,9 @@ title: About
 permalink: /about
 ---
 
-*This is an about page.*
 
-Feel free to tell the world about what you love! 😍
+Hi I'm <a class="external-link" href="https://dreat.info">dreat</a>.
+
+I'm a Software Monk, Drummer and Ambient creator. 
+
+This is my space to organize things I know and think about.

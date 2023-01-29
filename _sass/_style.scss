@@ -36,6 +36,18 @@ footer {
   padding-top: 1em;
 }
 
+graph {
+  font-size: 0.8em;
+  color: mix($color-text, white, 80%);
+  margin: 2em 0;
+}
+
+status {
+  font-size: 0.8em;
+  color: mix($color-text, white, 80%);
+  margin: 2em 0;
+}
+
 img {
   max-width: 100%;
   display: block;

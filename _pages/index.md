@@ -5,15 +5,20 @@ id: home
 permalink: /
 ---
 
-# Welcome! 🌱
+# Welcome! 
 
-<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
-</p>
+Hello! Welcome to my take on digital gardening, an entropic jungle.
 
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
+Feel free to explore my brain dumps.
 
-The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll).
+You may want to take a look at [[categories]]
+
+Small legend that can be useful:
+
+- 🌱 - very early stage - probably just dumping an idea/thought
+- 🌿 - some effort put - some cleanup/clarification done
+- 🌳 - "finished" - this *does not* mean that this won't be ever edited. But it means I spent a lot of time and **probably** won't touch it
+
 
 <style>
   .wrapper {

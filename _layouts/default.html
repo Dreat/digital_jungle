@@ -5,6 +5,10 @@
     <nav>{% include nav.html %}</nav>
     <div class="wrapper">
       <main>{{ content }}</main>
+<hr>
+      <graph>Here are all the notes in this jungle, along with their links, visualized as a graph.</graph>
+
+      {% include notes_graph.html %}
       <footer>{% include footer.html %}</footer>
     </div>
 
