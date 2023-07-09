@@ -1,5 +1,6 @@
 ---
 title: Excuse Hydra
+tag: opinions
 ---
 
 <status>Status: 🌱 </status>

@@ -1,5 +1,6 @@
 ---
 title: Codex Vitae
+tag: personal
 ---
 
 <status>Status: 🌱 </status>

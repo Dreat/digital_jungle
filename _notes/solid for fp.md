@@ -1,5 +1,6 @@
 ---
 title: SOLID for FP
+tags: se, fp
 ---
 
 <status>Status: 🌱 </status>
