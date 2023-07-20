@@ -6,7 +6,7 @@ tags: music
 _postmortem_
 
 Second solo ambient live I ever did.
-May 2023 at https://festiwalswiatla.hs3.pl/
+May 2023 at <a class="external-link" href="https://festiwalswiatla.hs3.pl/ ">Festiwal Światła</a>
 
 I took some lessons from [[Stellar Chant]] and had some more time. Biggest change was that I decided to make my own visuals (and it kinda worked, more on that later).
 
@@ -26,9 +26,7 @@ Setup for this year:
 - I had killer outfit to "transform" into MonoChromancer. This seems silly, but helped me a lot to "play character".
 - Had a proper soundcheck
 - Have better photo/video than last year
-- Actually released Spectral Forge as debut album! (even if it's not mixed as well as I would like, it's still a huge lock out of my head)
-	- https://monochromancer.bandcamp.com/album/spectral-forge
-	- https://album.link/s/2YVFDSW2w99MUYaijNaytQ
+- <a class="external-link" href="https://album.link/s/2YVFDSW2w99MUYaijNaytQ">Actually released Spectral Forge as debut album! (even if it's not mixed as well as I would like, it's still a huge lock out of my head)</a>
 - A lot of my stickers found new home
 - Discovered I can manipulate volume "kinda as an extra instrument" - small changes in volume for some parts really did enhance the show
 
@@ -38,5 +36,7 @@ Setup for this year:
 - Out of stress I did turn wrong know on Lyra for a while and had to recover quickly during stress. It made the track bit worse
 
 Lastly, I think I focused too much on "let's make something that will be playable live" and lost track somewhere along the lines. I kinda got lost in a quest to "make live for a festival" that I made a bit compromised version of music. At least it was eye-opening afterwards to change direction and go back to the "proper path" (aka path that actually is fun for me).
+
+Also, it made me rethink my "all live" approach. I may come from local rock bands background, which may not necessarily translate 1:1 to ambient music.
 
 Overall a huge net positive, especially with release out and a "wake-up call".

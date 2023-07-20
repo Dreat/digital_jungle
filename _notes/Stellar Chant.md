@@ -6,7 +6,7 @@ tags: music
 _postmortem_
 
 This was my first ever solo live and first ever ambient live.
-May 2022 at https://festiwalswiatla.hs3.pl/
+May 2022 at <a class="external-link" href="https://festiwalswiatla.hs3.pl/ ">Festiwal Światła</a>
 
 ### How I prepared
 - I talked a lot with folks and gathered informations and inspirations
