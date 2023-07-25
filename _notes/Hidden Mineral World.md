@@ -104,6 +104,31 @@ Actually after initial bass I went into designing fading outro, with automated a
 
 I actually broke from the scale suggestions and went with what sounds cool to me (and arpeggiated). Grouping wavetable with second, more plucky one, did help to get more pleasing sound as well.
 
+I changed previous midi clips to new melody and added new synth for a bass line for the "cracking open" part, that will stay with the song till the end.
+Initial bass is automated to get to `-inf dB` slowly over the course of the second part.
+
+I though that I need some pads, so I whipped out wavetable to create something lush. I duplicated the track, froze two chords (first one from pattern and very last one), reversed audio clips and used them as smooth transition. It works especially well if you have reverse audio going into the synth when there's a transition between parts. It makes it all glue together, and sounds really well.
+
+After rendering and listening to it, I may go back to it and add something in first part, as, right now, it's a bit boring.
+
+#### Iron Vein
+
+This is what I got from ChatGPT4
+```
+BPM: 130
+
+- 0:00-0:45: A steady, driving beat starts, metallic synths layer over to build tension.
+- 0:45-2:00: The intensity increases, bringing the raw energy of iron extraction to life.
+- 2:00-3:30: The track breaks down into a quieter passage, with softer sounds representing the depleting vein.
+- 3:30-4:15: A somber, atmospheric outro, symbolizing the aftermath of extraction.
+```
+
+I spent first session, trying to make synths that are `metallic enough`. I decided to switch things a bit, and went with Ashlight from NI for some dark pad paired with quiet `metallic` operator with some echo.
+Turns out that first part is divisible by 6, not 4 (given the length of patterns I created), so this makes things a bit more interesting.
+Afterwards I added a standard 808 kick that slowly appears. Synth has parallel compression to make that kick stand out, but this time I did 50% wet (instead of 100%), and, I must say, it sounds great.
+
+I managed to create simple hihat pattern and got `time outed` when trying to find next percussive sounds.
+
 _tbc_
 
 
@@ -112,3 +137,4 @@ _tbc_
 
 - As said many times, both image and text generative AIs give "raw material" rather than finished product. Cover was worked on in PhotoShop after it was generated. I did interpret the song structure in my own way.
 - OTOH, not having a blank page to start with is a great help. While here it's way more constraining that I would use for something else, LLMs can be great for ideation and getting some concrete starting points.
+- I still deviated from some of the suggestions after banging my head against the wall, but, many of those were helpful, or made me try out and learn new things
