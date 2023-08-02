@@ -5,6 +5,8 @@ tags: music
 
 _written in the middle of making this_
 
+<a class="external-link" href="https://open.spotify.com/album/33RZuDk2Ov47TVWEGgEGQ2?si=KvgLf1gxSLekgBTlrmf-2w">Spotify Link</a>
+
 ### Intro
 
 Hidden Mineral World EP (or HMW for short) started out as a challenge from my friend. He generated this:
