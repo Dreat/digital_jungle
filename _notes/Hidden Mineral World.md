@@ -129,9 +129,15 @@ Afterwards I added a standard 808 kick that slowly appears. Synth has parallel c
 
 I managed to create simple hihat pattern and got `time outed` when trying to find next percussive sounds.
 
-_tbc_
+While playing around with `bongo` sound I managed to create great accents using sparse two hits at a same time (with some reverb on some of the hits) and found great rhythmic pattern with second preset. I actually made it quicker to test some effects and realised that it sounds great as a background sound, so I kept it there.
 
+I stole the idea of "arpeggiating" 5 notes to create rhythmic variety - put a long 5 note MIDI with arpeggio on operator bell sounds. To enforce the melody, in third section of a song I used the same notes, just slower, going up with first note as a pedal note. I just found a nice Vital preset that fit the mood. Moving it around a bit made "progression" that was supported with sustained bass. 
 
+As LLM suggested track slowly fading away I started getting more sparse with bongos (to the point it was removed), slowly removing layers. Track ends with reverb tail from bass and Vital.
+
+#### Final touches
+
+I went around the tracks and did some small fixes here and there. Also I mixed it quickly (limiter on master maybe is not advanced technique but did the job) and added a little, barely audible, heavy processed sample in Geode Rift. Afterwards I uploaded it to streaming services. And now only thing left is to wait for it to be processed.
 
 ### Random thoughts 
 
