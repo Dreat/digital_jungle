@@ -31,7 +31,7 @@ I also got BPMs and tracks structures, but, having more draw into Ambient stuff 
 
 ### Third try
 
-Third's time the charm, right?
+Third time's the charm, right?
 
 I may have neglected this, but this EP kept coming back to my mind, so I decided to give it a final try, this time with extra challenge - I will work on it for 15min daily. No more, no less. I open up Ableton Live, start the timer and save&quit when timer gets off.
 
