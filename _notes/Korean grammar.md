@@ -24,6 +24,7 @@ title: Korean grammar
 - [And/but/therefore/so](#andbut)
 - [Also/too](#also)
 - [Only](#only)
+- [Irregulars](#irregulars)
 
 ### Formal vs Casual {#formal}
 
@@ -238,3 +239,16 @@ used to
 Only + verb
 1. verb in noun form
 2. add -만 하다
+
+### Irregulars {#irregulars}
+
+|ends with|change|
+|---|---|
+|ㅅ|remove ㅅ|
+|ㄷ|ㄷ => ㄹ|
+|last vowel ㅗ + ㅂ| remove ㅂ, add 오아|
+|last vowel not ㅗ + ㅂ| remove ㅂ, add 우어|
+|vowel in 2nd last syllable ㅏ/ㅗ + ㅡ|ㅡ => ㅏ|
+|vowel in 2nd last syllable not ㅏ/ㅗ + ㅡ|ㅡ => ㅓ|
+|last vowel ㅏ/ㅗ + 르|르 => ㄹ + 라|
+|last vowel not ㅏ/ㅗ + 르|르 => ㄹ + 러|
