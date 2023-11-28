@@ -2,7 +2,7 @@
 title: Korean grammar
 ---
 
-<status>Status: 🌱 </status>
+<status>Status: 🌿 </status>
 
 - [Formal vs Casual](#formal)
 - [What](#what)
@@ -25,6 +25,15 @@ title: Korean grammar
 - [Also/too](#also)
 - [Only](#only)
 - [Irregulars](#irregulars)
+- [More than](#morethan)
+- [If/in case](#if)
+- [Still/already](#stillalready)
+- [Someone/Something/Somewhere/Someday](#somex)
+- [Imprerative](#imperative)
+- [Have to/Should/Must](#haveshouldmust)
+- [Method/way](#method/way)
+- [All/more](#allmore)
+- [Don't do it](#dontdoit)
 
 ### Formal vs Casual {#formal}
 
@@ -252,3 +261,90 @@ Only + verb
 |vowel in 2nd last syllable not ㅏ/ㅗ + ㅡ|ㅡ => ㅓ|
 |last vowel ㅏ/ㅗ + 르|르 => ㄹ + 라|
 |last vowel not ㅏ/ㅗ + 르|르 => ㄹ + 러|
+
+### More than {#morethan}
+
+A보다 더 = more than A
+
+수박은 사과부다 더 커요 = A watermelon is bigger than an apple
+
+### If/in case {#if}
+
+- 만약 - (optional) in case/if
+- -(으)면 = verb ending for "if"
+	- ends with no 받침 or ㄹ -> add -면
+	- ends with 받침 other than ㄹ -> add -으면
+
+_examples_:
+1. 만약 지금 자면, 일찍 일어 날 수 있어요 - If I sleep now, I can wake up early
+2. 지금 자면, 일찍 일어 날 수 있어요 - I can wake up early, if I sleep now
+
+
+### Still/already {#stillalready}
+
+- 아직 - still, not yet
+- 아직도 - still + even/also -> "still (not) happening". Sound critical/being a little mad or angry
+- 이미 - already, when you know about something
+- 벌써 - when you are just finding out about somthing
+
+### Someone/Something/Somewhere/Someday {#somex}
+
+1. 누구 (who) + -ㄴ가 = 누군가 (someone)
+2. 뭐 (what) + -ㄴ가 = 뭔가/무언가 (something)
+3. 어디 (where) + -ㄴ가 = 어딘가 (somewhere)
+4. 언제 (when) + -ㄴ가 = 언젠가 (someday)
+
+Even when intended meaning is "someday", 언제 can be used instead of 언젠가. Same goes for 뭐/어디/누구.
+
+*examples:*
+1. 누구 만날 거예요? - whom will you meet?
+2. 누군가 만날 거예요? - will you meet somebody?
+3. 뭐 찾았어요? - what did you find?
+4. 뭔가 찾았어요? - did you find something?
+
+
+### Imperative {#imperative}
+
+Fixed expressions using '-세요'
+- 어서오세요 - Welcome
+- 안녕히 가세요 - goodbye
+- 안녕히 계세요 - goodbye
+- 안녕히 주무세요 - goodnight
+
+1. If you want to tell somebody to do something
+	- Verb ending with vowel or ㄹ - add -세요
+	- Verb ending with consonant other than ㄹ - add -으세요
+2. Please do it for me.
+	- It has much *nicer tone*
+	- Has nuance of asking someone for a favour or asking someone to do sth "for you"
+	- 아/어/여 주세요
+
+*examples*:
+1. 아이스크림 사세요 - please buy yourself some icecream
+2. 아이스크림 사 주세요 - please buy **me** some ice cream
+
+줘요 is less formal 주세요, but more polite than just -세요.
+
+### Have to/Should/Must {#haveshouldmust}
+
+-아야/어야/여야 + 되다/하다
+
+### Method/way {#methodway}
+
+-(으)로
+
+1. Made with x - 뭐로 이거 만들었어요? - what did you make this with?
+2. Come by x - 오늘 택시로 왔어요? - did you come by taxi today?
+3. Do x using y - 카드로 낼 거예요 - I will pay by card
+4. Get hurt/sick - 사구로 다치다 - to get hurt in an accident
+5. To be famous for x - 프랑스는 치즈로 유명해요 - France is famous for its cheese
+6. Path - 이 길로 가다 - to go this path
+
+### All/more {#allmore}
+
+- 다 - all
+- 더 - more
+
+### Don't do it {#dontdoit}
+
+add -지 마세요
