@@ -34,6 +34,7 @@ title: Korean grammar
 - [Method/way](#method/way)
 - [All/more](#allmore)
 - [Don't do it](#dontdoit)
+- [Verbs that require nouns](#vnounsreq)
 
 ### Formal vs Casual {#formal}
 
@@ -348,3 +349,23 @@ Fixed expressions using '-세요'
 ### Don't do it {#dontdoit}
 
 add -지 마세요
+
+
+### Verbs that require nouns {#vnounsreq}
+
+Some verbs require nouns to make sense. "To sing"/"To dance"/"To draw" makes no sense if it's not specified **what**
+
+examples with most *generic* nouns:
+
+1. To eat - (밥을) 먹다
+	- 밥(을) 먹어요 - I eat 
+	- 뭔가 먹어요 - I eat something
+2. To draw - (그림을) 그리다
+	- 그림 그려료 - I draw
+	- 강아지 그려요 - I draw a dog
+3. To dance - (춤을) 추다
+	- 춤을 춰요 - I dance
+	- 힙합을 춰요 - I dance hip-hop
+4. To sing - (노래를) 부르다/하다
+	- 노래 불러요 - I sing
+	- 케이팝 불러요 - I sing K-pop

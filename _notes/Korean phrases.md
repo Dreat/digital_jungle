@@ -97,6 +97,7 @@ from most to least formal
 - 자주 = often
 - 얼마나 자주 = how often
 - 얼마나 오래 = how long
+- 항상 = always
 
 ### Days of the week
 
@@ -178,3 +179,12 @@ from most to least formal
 - 어떻게 + verb = how + verb
 - 얼마 = how much
 - 얼마나 + adj = how + adj
+
+### Really
+
+- 주금 - a little, a bit
+- 정말 - really, truly
+- 진짜 - real(ly)
+- 아주 - very, truly
+- 별로 - (not) really (only with neg sentences)
+- 전혀 - (not) at all (only with neg sentences)
