@@ -210,7 +210,7 @@ used to
 
 ##### And
 
-1. 그리구 = and, and then.
+1. 그리고 = and, and then.
 2. -하구 = and (used for nouns)
 3. -(이)랑 = and (for nouns), also "with"
 

@@ -182,7 +182,7 @@ from most to least formal
 
 ### Really
 
-- 주금 - a little, a bit
+- 조금 - a little, a bit
 - 정말 - really, truly
 - 진짜 - real(ly)
 - 아주 - very, truly
