@@ -35,6 +35,10 @@ title: Korean grammar
 - [All/more](#allmore)
 - [Don't do it](#dontdoit)
 - [Verbs that require nouns](#vnounsreq)
+- [Too much/very](#toomuchvery)
+- [Linking verbs](#linkingverbs)
+- [Shall we?/I wonder](#shallweiwonder)
+- [Approximately, About](#approxabout)
 
 ### Formal vs Casual {#formal}
 
@@ -134,7 +138,12 @@ This book is good
 
 ### Future tense {#future}
 
-Add (으)ㄹ 거예요.
+Add -(으)ㄹ 거예요.
+
+or
+
+Add -(으)ㄹ 게요 to focus more on actions or decisions as a reaction/result of what the other person says or thinks
+
 
 ### Present progressive (-ing) {#ing}
 
@@ -369,3 +378,35 @@ examples with most *generic* nouns:
 4. To sing - (노래를) 부르다/하다
 	- 노래 불러요 - I sing
 	- 케이팝 불러요 - I sing K-pop
+
+### Too much/very {#toomuchvery}
+
+너무 - too much, excessively; Can be also used as very/quite/really.
+
+In past it was used only in negative sentences, but nowadays it's possible to use in positive contexts as well. Most people use it both ways.
+
+example:
+너무 더워요: 
+1. It is too hot
+2. It is very hot
+
+### Linking verbs {#linkingverbs}
+
+-고 can be used to link verbs. Only last one needs to specify tense, others - just replace `다` with `고` 
+
+### Shall we?/I wonder... {#shallweiwonder}
+
+-(으)ㄹ 까요?
+
+It is used to:
+1. Asking oneself a question of showing doubt about something
+2. Raising a question and attracting attention of others
+3. Suggesting doing something together
+
+### Approximately, About {#approxabout}
+
+1. -쯤 (no space)
+2. 정도 (after word, with space)
+3. 약 (before word, with space)
+
+`약` can be used as `ummm` to buy time when answering a question. 1+3 and 2+3 are valid options.

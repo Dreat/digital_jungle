@@ -188,3 +188,11 @@ from most to least formal
 - 아주 - very, truly
 - 별로 - (not) really (only with neg sentences)
 - 전혀 - (not) at all (only with neg sentences)
+
+### In front of/Behind/etc
+
+앞 = front
+뒤 = back
+옆 = side
+위 = top
+밑, 아래 = bottom
