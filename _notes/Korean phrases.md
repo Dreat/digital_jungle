@@ -196,3 +196,8 @@ from most to least formal
 옆 = side
 위 = top
 밑, 아래 = bottom
+
+### to be alike/the same
+
+같다 = to be like
+noun + (이)랑 = to be the same
