@@ -201,3 +201,7 @@ from most to least formal
 
 같다 = to be like
 noun + (이)랑 = to be the same
+
+_(with verbs)_
+-(으)ㄴ/는/(으)ㄹ 것 같다
+

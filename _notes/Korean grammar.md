@@ -39,6 +39,9 @@ title: Korean grammar
 - [Linking verbs](#linkingverbs)
 - [Shall we?/I wonder](#shallweiwonder)
 - [Approximately, About](#approxabout)
+- [Before noun](#beforenoun)
+- [Plural marker](#pluralmarker)
+- [But still, nevertheless](#butstillnevertheless)
 
 ### Formal vs Casual {#formal}
 
@@ -169,6 +172,16 @@ Add -구 싶어요
 
 부기 - seeing
 
+or add `-(으)ㄴ/는/(으)ㄹ 것 `
+
+**for action verbs**
+1. present tense: verb stem + -는 것
+2. past tense: verb stem + -(으)ㄴ 것
+3. future tense: verb stem + -(으)ㄹ 것
+
+**for descriptive verbs**
+1. present tense: verb stem + -(으)ㄴ 것
+2. future tense: verb stem + -(으)ㄹ 것
 ### Can/cannot do {#cancannot}
 
 1. Drop 다
@@ -410,3 +423,38 @@ It is used to:
 3. 약 (before word, with space)
 
 `약` can be used as `ummm` to buy time when answering a question. 1+3 and 2+3 are valid options.
+
+### Before noun {#beforenoun}
+(noun +) 전에 = before (+ noun)
+- before class = 수업 전에
+- before Sunday = 일요일 전에
+﻿﻿- before 1o'clock = 1시 전에
+- an hour ago = 한 시간 전에
+
+with verb = change a verb into a noun (-기)
+- 가기 전에 = before going
+- ﻿﻿사기 전에 = before buying  
+- 먹기 전에 = before eating
+
+**examples**
+- ﻿﻿Finish your work before you go home = 집에 가기 전에 일 끝내세요
+- Eat before you study = 공부 하기 전에 밥 먹으세요
+- Don't use it before you pay. = 돈을 내기 전에 쓰지 마세요.
+
+### Plural marker {#pluralmarker}
+
+noun + 들
+
+커피들이 있어요 (more than 1)
+
+커피가 있어요 (1 or more than 1)
+
+_do not use with counting verbs_
+incorrect: '커피 4잔'들 (sounds like 1 or more sets of 4 coffee cups)
+
+### But still, nevertheless {#butstillnevertheless}
+
+#### 그래도
+it means "but still"/"however"/"nonetheless"/"nevertheless"
+ 
+example: It is raining! Are you still going? = 비가 와요! 그래도 갈 거예요?
