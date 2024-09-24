@@ -154,7 +154,7 @@ Add -고 있어요
 
 ### Want {#want}
 
-Add -구 싶어요
+Add -고 싶어요
 
 ### Negation {#negation}
 
