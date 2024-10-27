@@ -233,7 +233,7 @@ used to
 ##### And
 
 1. 그리고 = and, and then.
-2. -하구 = and (used for nouns)
+2. -하고 = and (used for nouns)
 3. -(이)랑 = and (for nouns), also "with"
 
 2 and 3 can be combined with "같이", which means "together"
