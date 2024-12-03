@@ -205,3 +205,27 @@ noun + (이)랑 = to be the same
 _(with verbs)_
 -(으)ㄴ/는/(으)ㄹ 것 같다
 
+### 색, 색깔 - Colour
+
+| colour       | option1     | option2            |
+| ------------ | ----------- | ------------------ |
+| black        | **검정**색     | 블랙                 |
+| blue         | 파란색, 파랑     | 블루                 |
+| navy blue    | 남색          | 네이비                |
+| sky blue     | 하늘색         | 연(light) 블루        |
+| brown        | 갈색          | 브라운                |
+| dark brown   | 진 갈색, 밤색    | 진 (deep, dark) 브라운 |
+| gold         | 금색          | 골드                 |
+| silver       | 은색          | 실버                 |
+| gray         | 회색          | 그레이                |
+| purple       | 보라색         | 퍼플                 |
+| green        | 초록색         | 그린                 |
+| light green  | 연두색         |                    |
+| blue-green   | 청록색, 민트색    |                    |
+| orange       | 주황색         | 오렌지                |
+| pink         | 분홍색         | 핑크                 |
+| red          | 빨간색, 빨강     | 레드                 |
+| white        | 하얀색, 흰색, 백색 | 화이트                |
+| yellow       | 노란색, 노랑     | 옐로우                |
+| light yellow | 연노란색        |                    |
+
