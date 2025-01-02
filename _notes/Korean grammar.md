@@ -405,7 +405,21 @@ example:
 
 ### Linking verbs {#linkingverbs}
 
+#### -고
 -고 can be used to link verbs. Only last one needs to specify tense, others - just replace `다` with `고` 
+It's used to connect **independent** clauses or actions together to form once sentence.
+
+example: 공원에 가고 책을 읽었어요 -> I went to the park and I read a book. (listing things done in a day)
+
+#### -아/어/여 서
+-아/어/여 서 is translated as "therefore/so" and is used to connect two or more verbs in a sentence to show logical relationship between the verbs.
+
+1. Reason + 아/어/여 서 + result (비가 와서 못 갔어요 -> It rained, so I cannot go)
+2. An action + 아/어/여 서 + another action that takes place after first action (공원에 가서 책을 읽었어요 -> I went to the park and read a book. Reading a book was after park)
+3. An action + 아/어/여 서 + the purpose of or the plan after the action (케이크를 사서 친구한테 줄 거예요. -> I'm going to buy a cake and give it to a friend)
+4. fixed expressions 
+	1. according to -> -에 따라(서) (뉴스에 따라서 오늘 비가 올 거예요 -> According to the news, it will rain today.)
+	2. for example -> 예를 들어서 (예를 들어서 이렇게 할 수 있어요 -> For example, you can do like this)
 
 ### Shall we?/I wonder... {#shallweiwonder}
 
