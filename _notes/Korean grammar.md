@@ -42,6 +42,7 @@ title: Korean grammar
 - [Before noun](#beforenoun)
 - [Plural marker](#pluralmarker)
 - [But still, nevertheless](#butstillnevertheless)
+- [To look like/To seem like](#looklikeseemlike)
 
 ### Formal vs Casual {#formal}
 
@@ -472,3 +473,19 @@ incorrect: '커피 4잔'들 (sounds like 1 or more sets of 4 coffee cups)
 it means "but still"/"however"/"nonetheless"/"nevertheless"
  
 example: It is raining! Are you still going? = 비가 와요! 그래도 갈 거예요?
+
+### To look like/to seem like {#looklikeseemlike}
+
+**비슷하다** = to be similar
+A is similar to B
+A은/는 B(이)랑/B하고 (use with) 비슷하다
+Lemon is similar to kiwi
+키위랑 레몬은 비슷해요 / 레몬은 키위랑 비슷해요.
+
+**같다** = to be the same
+A is the same as B
+A은/는 B(이)랑/B하고 (use with) 같다
+
+A랑 같아요 - it is the same as A
+B는 A랑 같아요 - B is the same as A
+A하고 B는 같아요 - A and B are the same
