@@ -20,7 +20,7 @@ title: Korean grammar
 	<li><a href="#negation">Negation</a></li>
 	<li><a href="#verbintonoun">Verb into noun</a></li>
 	<li><a href="#cancannot">Can/cannot do</a></li>
-	<li><a href="#descriptivecerbs">Descriptive verbs</a></li>
+	<li><a href="#descriptiveverbs">Descriptive verbs</a></li>
 	<li><a href="#place">Place</a></li>
 	<li><a href="#fromto">From/to</a></li>
 	<li><a href="#andbut">And/but/therefore/so</a></li>
