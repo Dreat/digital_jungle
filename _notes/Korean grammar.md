@@ -3,6 +3,9 @@ title: Korean grammar
 ---
 
 <status>Status: 🌿 </status>
+<details>
+<summary>Table of contents</summary>
+<div>
 
 - [Formal vs Casual](#formal)
 - [What](#what)
@@ -43,6 +46,9 @@ title: Korean grammar
 - [Plural marker](#pluralmarker)
 - [But still, nevertheless](#butstillnevertheless)
 - [To look like/To seem like](#looklikeseemlike)
+
+</div>
+</details>
 
 ### Formal vs Casual {#formal}
 
@@ -486,6 +492,17 @@ Lemon is similar to kiwi
 A is the same as B
 A은/는 B(이)랑/B하고 (use with) 같다
 
-A랑 같아요 - it is the same as A
-B는 A랑 같아요 - B is the same as A
-A하고 B는 같아요 - A and B are the same
+A**랑** 같아요 - it is the same as A
+B는 A**랑** 같아요 - B is the same as A
+A**하고** B는 같아요 - A and B are the same
+
+##### with verbs
+-(으)ㄴ/는/(으)ㄹ 것 같다
+
+- present tense: verb stem + 는 것
+	- present tense for action verbs
+- past tense: verb stem + -(으)ㄴ 것
+	- present tense for descriptive verbs
+	- past tense for action verbs
+- future tense: verb stem + -(으)ㄹ 것
+	- future tense for action and descriptive
