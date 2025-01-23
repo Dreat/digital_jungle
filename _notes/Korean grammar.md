@@ -5,47 +5,47 @@ title: Korean grammar
 <status>Status: 🌿 </status>
 <details>
 <summary>Table of contents</summary>
-
-- [Formal vs Casual](#formal)
-- [What](#what)
-- [Time](#time)
-- [Counting](#counting)
-- [Subject markers](#subject)
-- [Object markers](#object)
-- [Present tense](#present)
-- [Past tense](#past)
-- [Future tense](#future)
-- [Present progressive](#ing)
-- [Want](#want)
-- [Negation](#negation)
-- [Verb into noun](#verbintonoun)
-- [Can/cannot do](#cancannot)
-- [Descriptive verbs](#descriptivecerbs)
-- [Place](#place)
-- [From/to](#fromto)
-- [And/but/therefore/so](#andbut)
-- [Also/too](#also)
-- [Only](#only)
-- [Irregulars](#irregulars)
-- [More than](#morethan)
-- [If/in case](#if)
-- [Still/already](#stillalready)
-- [Someone/Something/Somewhere/Someday](#somex)
-- [Imprerative](#imperative)
-- [Have to/Should/Must](#haveshouldmust)
-- [Method/way](#method/way)
-- [All/more](#allmore)
-- [Don't do it](#dontdoit)
-- [Verbs that require nouns](#vnounsreq)
-- [Too much/very](#toomuchvery)
-- [Linking verbs](#linkingverbs)
-- [Shall we?/I wonder](#shallweiwonder)
-- [Approximately, About](#approxabout)
-- [Before noun](#beforenoun)
-- [Plural marker](#pluralmarker)
-- [But still, nevertheless](#butstillnevertheless)
-- [To look like/To seem like](#looklikeseemlike)
-
+<ul>
+	<li><a href="#formal">Formal vs Casual</a></li>
+	<li><a href="#what">What</a></li>
+	<li><a href="#time">Time</a></li>
+	<li><a href="#counting">Counting</a></li>
+	<li><a href="#subject">Subject markers</a></li>
+	<li><a href="#object">Object markers</a></li>
+	<li><a href="#present">Present tense</a></li>
+	<li><a href="#past">Past tense</a></li>
+	<li><a href="#future">Future tense</a></li>
+	<li><a href="#ing">Present progressive</a></li>
+	<li><a href="#want">Want</a></li>
+	<li><a href="#negation">Negation</a></li>
+	<li><a href="#verbintonoun">Verb into noun</a></li>
+	<li><a href="#cancannot">Can/cannot do</a></li>
+	<li><a href="#descriptivecerbs">Descriptive verbs</a></li>
+	<li><a href="#place">Place</a></li>
+	<li><a href="#fromto">From/to</a></li>
+	<li><a href="#andbut">And/but/therefore/so</a></li>
+	<li><a href="#also">Also/too</a></li>
+	<li><a href="#only">Only</a></li>
+	<li><a href="#irregulars">Irregulars</a></li>
+	<li><a href="#morethan">More than</a></li>
+	<li><a href="#if">If/in case</a></li>
+	<li><a href="#stillalready">Still/already</a></li>
+	<li><a href="#somex">Someone/Something/Somewhere/Someday</a></li>
+	<li><a href="#imperative">Imprerative</a></li>
+	<li><a href="#haveshouldmust">Have to/Should/Must</a></li>
+	<li><a href="#method/way">Method/way</a></li>
+	<li><a href="#allmore">All/more</a></li>
+	<li><a href="#dontdoit">Don't do it</a></li>
+	<li><a href="#vnounsreq">Verbs that require nouns</a></li>
+	<li><a href="#toomuchvery">Too much/very</a></li>
+	<li><a href="#linkingverbs">Linking verbs</a></li>
+	<li><a href="#shallweiwonder">Shall we?/I wonder</a></li>
+	<li><a href="#approxabout">Approximately, About</a></li>
+	<li><a href="#beforenoun">Before noun</a></li>
+	<li><a href="#pluralmarker">Plural marker</a></li>
+	<li><a href="#butstillnevertheless">But still, nevertheless</a></li>
+	<li><a href="#looklikeseemlike">To look like/To seem like</a></li>
+</ul>
 </details>
 
 ### Formal vs Casual {#formal}
