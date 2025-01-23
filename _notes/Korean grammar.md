@@ -5,7 +5,6 @@ title: Korean grammar
 <status>Status: 🌿 </status>
 <details>
 <summary>Table of contents</summary>
-<div>
 
 - [Formal vs Casual](#formal)
 - [What](#what)
@@ -47,7 +46,6 @@ title: Korean grammar
 - [But still, nevertheless](#butstillnevertheless)
 - [To look like/To seem like](#looklikeseemlike)
 
-</div>
 </details>
 
 ### Formal vs Casual {#formal}
