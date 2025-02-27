@@ -6,45 +6,45 @@ title: Korean grammar
 <details>
 <summary>Table of contents</summary>
 <ul>
-	<li><a href="#formal">Formal vs Casual</a></li>
-	<li><a href="#what">What</a></li>
-	<li><a href="#time">Time</a></li>
-	<li><a href="#counting">Counting</a></li>
-	<li><a href="#subject">Subject markers</a></li>
-	<li><a href="#object">Object markers</a></li>
-	<li><a href="#present">Present tense</a></li>
-	<li><a href="#past">Past tense</a></li>
-	<li><a href="#future">Future tense</a></li>
-	<li><a href="#ing">Present progressive</a></li>
-	<li><a href="#want">Want</a></li>
-	<li><a href="#negation">Negation</a></li>
-	<li><a href="#verbintonoun">Verb into noun</a></li>
-	<li><a href="#cancannot">Can/cannot do</a></li>
-	<li><a href="#descriptiveverbs">Descriptive verbs</a></li>
-	<li><a href="#place">Place</a></li>
-	<li><a href="#fromto">From/to</a></li>
-	<li><a href="#andbut">And/but/therefore/so</a></li>
-	<li><a href="#also">Also/too</a></li>
-	<li><a href="#only">Only</a></li>
-	<li><a href="#irregulars">Irregulars</a></li>
-	<li><a href="#morethan">More than</a></li>
-	<li><a href="#if">If/in case</a></li>
-	<li><a href="#stillalready">Still/already</a></li>
-	<li><a href="#somex">Someone/Something/Somewhere/Someday</a></li>
-	<li><a href="#imperative">Imprerative</a></li>
-	<li><a href="#haveshouldmust">Have to/Should/Must</a></li>
-	<li><a href="#method/way">Method/way</a></li>
-	<li><a href="#allmore">All/more</a></li>
-	<li><a href="#dontdoit">Don't do it</a></li>
-	<li><a href="#vnounsreq">Verbs that require nouns</a></li>
-	<li><a href="#toomuchvery">Too much/very</a></li>
-	<li><a href="#linkingverbs">Linking verbs</a></li>
-	<li><a href="#shallweiwonder">Shall we?/I wonder</a></li>
-	<li><a href="#approxabout">Approximately, About</a></li>
-	<li><a href="#beforenoun">Before noun</a></li>
-	<li><a href="#pluralmarker">Plural marker</a></li>
-	<li><a href="#butstillnevertheless">But still, nevertheless</a></li>
-	<li><a href="#looklikeseemlike">To look like/To seem like</a></li>
+	<li><a href="#formal" target="_self">Formal vs Casual</a></li>
+	<li><a href="#what" target="_self">What</a></li>
+	<li><a href="#time" target="_self">Time</a></li>
+	<li><a href="#counting" target="_self">Counting</a></li>
+	<li><a href="#subject" target="_self">Subject markers</a></li>
+	<li><a href="#object" target="_self">Object markers</a></li>
+	<li><a href="#present" target="_self">Present tense</a></li>
+	<li><a href="#past" target="_self">Past tense</a></li>
+	<li><a href="#future" target="_self">Future tense</a></li>
+	<li><a href="#ing" target="_self">Present progressive</a></li>
+	<li><a href="#want" target="_self">Want</a></li>
+	<li><a href="#negation" target="_self">Negation</a></li>
+	<li><a href="#verbintonoun" target="_self">Verb into noun</a></li>
+	<li><a href="#cancannot" target="_self">Can/cannot do</a></li>
+	<li><a href="#descriptiveverbs" target="_self">Descriptive verbs</a></li>
+	<li><a href="#place" target="_self">Place</a></li>
+	<li><a href="#fromto" target="_self">From/to</a></li>
+	<li><a href="#andbut" target="_self">And/but/therefore/so</a></li>
+	<li><a href="#also" target="_self">Also/too</a></li>
+	<li><a href="#only" target="_self">Only</a></li>
+	<li><a href="#irregulars" target="_self">Irregulars</a></li>
+	<li><a href="#morethan" target="_self">More than</a></li>
+	<li><a href="#if" target="_self">If/in case</a></li>
+	<li><a href="#stillalready" target="_self">Still/already</a></li>
+	<li><a href="#somex" target="_self">Someone/Something/Somewhere/Someday</a></li>
+	<li><a href="#imperative" target="_self">Imprerative</a></li>
+	<li><a href="#haveshouldmust" target="_self">Have to/Should/Must</a></li>
+	<li><a href="#method/way" target="_self">Method/way</a></li>
+	<li><a href="#allmore" target="_self">All/more</a></li>
+	<li><a href="#dontdoit" target="_self">Don't do it</a></li>
+	<li><a href="#vnounsreq" target="_self">Verbs that require nouns</a></li>
+	<li><a href="#toomuchvery" target="_self">Too much/very</a></li>
+	<li><a href="#linkingverbs" target="_self">Linking verbs</a></li>
+	<li><a href="#shallweiwonder" target="_self">Shall we?/I wonder</a></li>
+	<li><a href="#approxabout" target="_self">Approximately, About</a></li>
+	<li><a href="#beforenoun" target="_self">Before noun</a></li>
+	<li><a href="#pluralmarker" target="_self">Plural marker</a></li>
+	<li><a href="#butstillnevertheless" target="_self">But still, nevertheless</a></li>
+	<li><a href="#looklikeseemlike" target="_self">To look like/To seem like</a></li>
 </ul>
 </details>
 
