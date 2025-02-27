@@ -42,6 +42,7 @@ title: Korean grammar
 	<li><a href="#shallweiwonder" class="internal-link">Shall we?/I wonder</a></li>
 	<li><a href="#approxabout" class="internal-link">Approximately, About</a></li>
 	<li><a href="#beforenoun" class="internal-link">Before noun</a></li>
+	<li><a href="#beforeing" class="internal-link">Before verb</a></li>
 	<li><a href="#pluralmarker" class="internal-link">Plural marker</a></li>
 	<li><a href="#butstillnevertheless" class="internal-link">But still, nevertheless</a></li>
 	<li><a href="#looklikeseemlike" class="internal-link">To look like/To seem like</a></li>
@@ -289,7 +290,12 @@ Only + verb
 |vowel in 2nd last syllable not ㅏ/ㅗ + ㅡ|ㅡ => ㅓ|
 |last vowel ㅏ/ㅗ + 르|르 => ㄹ + 라|
 |last vowel not ㅏ/ㅗ + 르|르 => ㄹ + 러|
-
+but!
+- 입다 -> 입어요 -> 임을 거예요 (to wear)
+- 잡다 -> 잡아요 -> 잡을 거예요 (to catch)
+- 씹다 -> 씹어요 -> 씹을 거예요 (to chew)
+- 좁다 -> 좁아요 -> 좁을 거예요 (to be narrow)
+- 넓다 -> 넓어요 -> 넓을 거예요 (to be wide)
 ### More than {#morethan}
 
 A보다 더 = more than A
@@ -459,6 +465,17 @@ with verb = change a verb into a noun (-기)
 - ﻿﻿Finish your work before you go home = 집에 가기 전에 일 끝내세요
 - Eat before you study = 공부 하기 전에 밥 먹으세요
 - Don't use it before you pay. = 돈을 내기 전에 쓰지 마세요.
+
+### Before verb {#beforeing}
+change verb into noun (-기 form) + 전에
+가다 -> 가기 -> 가기 전에 (before going)
+사다 -> 사기 -> 사기 전에 (before buying)
+먹다 -> 먹기 -> 먹기 전에 (before eating)
+
+집에 가기 전에 (before going home)
+집에 가기 전에 일 끝내세요 - finish your work before going home
+
+공부 하기 전에 먹으세요 - eat before you study
 
 ### Plural marker {#pluralmarker}
 
