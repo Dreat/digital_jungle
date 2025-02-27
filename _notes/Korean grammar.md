@@ -6,45 +6,45 @@ title: Korean grammar
 <details>
 <summary>Table of contents</summary>
 <ul>
-	<li><a href="#formal" target="_self">Formal vs Casual</a></li>
-	<li><a href="#what" target="_self">What</a></li>
-	<li><a href="#time" target="_self">Time</a></li>
-	<li><a href="#counting" target="_self">Counting</a></li>
-	<li><a href="#subject" target="_self">Subject markers</a></li>
-	<li><a href="#object" target="_self">Object markers</a></li>
-	<li><a href="#present" target="_self">Present tense</a></li>
-	<li><a href="#past" target="_self">Past tense</a></li>
-	<li><a href="#future" target="_self">Future tense</a></li>
-	<li><a href="#ing" target="_self">Present progressive</a></li>
-	<li><a href="#want" target="_self">Want</a></li>
-	<li><a href="#negation" target="_self">Negation</a></li>
-	<li><a href="#verbintonoun" target="_self">Verb into noun</a></li>
-	<li><a href="#cancannot" target="_self">Can/cannot do</a></li>
-	<li><a href="#descriptiveverbs" target="_self">Descriptive verbs</a></li>
-	<li><a href="#place" target="_self">Place</a></li>
-	<li><a href="#fromto" target="_self">From/to</a></li>
-	<li><a href="#andbut" target="_self">And/but/therefore/so</a></li>
-	<li><a href="#also" target="_self">Also/too</a></li>
-	<li><a href="#only" target="_self">Only</a></li>
-	<li><a href="#irregulars" target="_self">Irregulars</a></li>
-	<li><a href="#morethan" target="_self">More than</a></li>
-	<li><a href="#if" target="_self">If/in case</a></li>
-	<li><a href="#stillalready" target="_self">Still/already</a></li>
-	<li><a href="#somex" target="_self">Someone/Something/Somewhere/Someday</a></li>
-	<li><a href="#imperative" target="_self">Imprerative</a></li>
-	<li><a href="#haveshouldmust" target="_self">Have to/Should/Must</a></li>
-	<li><a href="#method/way" target="_self">Method/way</a></li>
-	<li><a href="#allmore" target="_self">All/more</a></li>
-	<li><a href="#dontdoit" target="_self">Don't do it</a></li>
-	<li><a href="#vnounsreq" target="_self">Verbs that require nouns</a></li>
-	<li><a href="#toomuchvery" target="_self">Too much/very</a></li>
-	<li><a href="#linkingverbs" target="_self">Linking verbs</a></li>
-	<li><a href="#shallweiwonder" target="_self">Shall we?/I wonder</a></li>
-	<li><a href="#approxabout" target="_self">Approximately, About</a></li>
-	<li><a href="#beforenoun" target="_self">Before noun</a></li>
-	<li><a href="#pluralmarker" target="_self">Plural marker</a></li>
-	<li><a href="#butstillnevertheless" target="_self">But still, nevertheless</a></li>
-	<li><a href="#looklikeseemlike" target="_self">To look like/To seem like</a></li>
+	<li><a href="#formal" class="internal-link">Formal vs Casual</a></li>
+	<li><a href="#what" class="internal-link">What</a></li>
+	<li><a href="#time" class="internal-link">Time</a></li>
+	<li><a href="#counting" class="internal-link">Counting</a></li>
+	<li><a href="#subject" class="internal-link">Subject markers</a></li>
+	<li><a href="#object" class="internal-link">Object markers</a></li>
+	<li><a href="#present" class="internal-link">Present tense</a></li>
+	<li><a href="#past" class="internal-link">Past tense</a></li>
+	<li><a href="#future" class="internal-link">Future tense</a></li>
+	<li><a href="#ing" class="internal-link">Present progressive</a></li>
+	<li><a href="#want" class="internal-link">Want</a></li>
+	<li><a href="#negation" class="internal-link">Negation</a></li>
+	<li><a href="#verbintonoun" class="internal-link">Verb into noun</a></li>
+	<li><a href="#cancannot" class="internal-link">Can/cannot do</a></li>
+	<li><a href="#descriptiveverbs" class="internal-link">Descriptive verbs</a></li>
+	<li><a href="#place" class="internal-link">Place</a></li>
+	<li><a href="#fromto" class="internal-link">From/to</a></li>
+	<li><a href="#andbut" class="internal-link">And/but/therefore/so</a></li>
+	<li><a href="#also" class="internal-link">Also/too</a></li>
+	<li><a href="#only" class="internal-link">Only</a></li>
+	<li><a href="#irregulars" class="internal-link">Irregulars</a></li>
+	<li><a href="#morethan" class="internal-link">More than</a></li>
+	<li><a href="#if" class="internal-link">If/in case</a></li>
+	<li><a href="#stillalready" class="internal-link">Still/already</a></li>
+	<li><a href="#somex" class="internal-link">Someone/Something/Somewhere/Someday</a></li>
+	<li><a href="#imperative" class="internal-link">Imprerative</a></li>
+	<li><a href="#haveshouldmust" class="internal-link">Have to/Should/Must</a></li>
+	<li><a href="#method/way" class="internal-link">Method/way</a></li>
+	<li><a href="#allmore" class="internal-link">All/more</a></li>
+	<li><a href="#dontdoit" class="internal-link">Don't do it</a></li>
+	<li><a href="#vnounsreq" class="internal-link">Verbs that require nouns</a></li>
+	<li><a href="#toomuchvery" class="internal-link">Too much/very</a></li>
+	<li><a href="#linkingverbs" class="internal-link">Linking verbs</a></li>
+	<li><a href="#shallweiwonder" class="internal-link">Shall we?/I wonder</a></li>
+	<li><a href="#approxabout" class="internal-link">Approximately, About</a></li>
+	<li><a href="#beforenoun" class="internal-link">Before noun</a></li>
+	<li><a href="#pluralmarker" class="internal-link">Plural marker</a></li>
+	<li><a href="#butstillnevertheless" class="internal-link">But still, nevertheless</a></li>
+	<li><a href="#looklikeseemlike" class="internal-link">To look like/To seem like</a></li>
 </ul>
 </details>
 
