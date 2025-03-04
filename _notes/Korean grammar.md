@@ -495,6 +495,8 @@ it means "but still"/"however"/"nonetheless"/"nevertheless"
  
 example: It is raining! Are you still going? = 비가 와요! 그래도 갈 거예요?
 
+그래 + 도 = "even if you do that"/"even if that happens"/"if you do that, too" + the meaning of "still"
+
 ### To look like/to seem like {#looklikeseemlike}
 
 **비슷하다** = to be similar

@@ -229,3 +229,25 @@ _(with verbs)_
 | yellow       | 노란색, 노랑     | 옐로우                |
 | light yellow | 연노란색        |                    |
 
+### Korean words similar to English
+
+ (word - 단어)
+
+| Korean      | English                        |
+| ----------- | ------------------------------ |
+| 크로와상        | croissant                      |
+| 카페          | cafe                           |
+| 카페 라떼       | cafe latte                     |
+| 바닐라 라떼      | vanilla latte                  |
+| 카라멜 라떼      | caramel latte                  |
+| 스트로베리 프라프치노 | strawberry frappuccino         |
+| 카푸치노        | cappuccino                     |
+| 아메리카노       | americano                      |
+| 에스프레소       | espresso                       |
+| 시나몬 롤       | cinammon roll                  |
+| 콩글리쉬        | Konglish (Korean + English)    |
+| 아이쇼핑        | window shopping (eye shopping) |
+| 아르바이트       | part-time job (Arbeit)         |
+| 모닝콜         | wake-up call (morning call)    |
+| 서비스         | one the house (service)        |
+| 린스          | har conditioner (rinse)        |
