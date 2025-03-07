@@ -46,6 +46,7 @@ title: Korean grammar
 	<li><a href="#pluralmarker" class="internal-link">Plural marker</a></li>
 	<li><a href="#butstillnevertheless" class="internal-link">But still, nevertheless</a></li>
 	<li><a href="#looklikeseemlike" class="internal-link">To look like/To seem like</a></li>
+	<li><a href="#adjectives" class="internal-link">Making Adjectives</a></li>
 </ul>
 </details>
 
@@ -523,3 +524,52 @@ A**하고** B는 같아요 - A and B are the same
 	- past tense for action verbs
 - future tense: verb stem + -(으)ㄹ 것
 	- future tense for action and descriptive
+
+
+### Making Adjectives {#adjectives}
+ `+ -(으)ㄴ + 명사 (noun)`
+
+In English "pretty" is an adjective and can be found in a dictionary.
+In Korean "pretty" is "예쁜", but it cannot be found dictionaries. The "descriptive verb" or "the adjective in infinite form" is "예쁘다" and can be found in the dictionary.
+
+- 싸다 is not "cheap". It means "to be cheap"
+- 바쁘다 is not "busy". It mean "to be busy"
+- 맛있다 is not "delicious". It mean "to be delicious"
+
+In Korean adjectives can be conjugated to different tenses, for example
+
+- 재미있다 (to be fun)
+- 재미있어요 (present tense)
+- 재미있었어요 (past tense)
+- 재미있을 거예요 (future tense)
+(vs English It is fun/ It was fun/ It will be fun; `fun` is always the same)
+
+**Exceptions:**
+- 하얗다 -> 하얀 (white; 하얀 가방 - white bag) 
+- 그렇다 -> 그런 (such; 그런 가방 - that kind of bag)
+- 달다 -> 단 (sweet)
+- 있다 -> 있는
+- 없다 -> 없는
+
+**Common mistake**
+예쁜 + 이에요 𐄂 -> 예뻐요 ✓
+비싼 + 이에요 𐄂 -> 비싸요 ✓
+라떼 한 잔 주세요. 따뜻한 - 𐄂 (can't be without noun)
+라떼 한 잔 주세요. 따뜻한 라떼. ✓
+
+**Action verbs can be also used as adjectives**
+
+action verb -는 + noun (for verbs ending with ㄹ, drop ㄹ)
+
+This is **a bag I like**
+이 가방은 제가 **좋아하는 가방**이에요.
+This bag is **a bag I liked**
+이 가방은 제가 **좋아한 가방**이에요.
+This bag is **a bag I will like**
+이 가방은 제가 **좋아할 가방**이에요.
+
+Someone who Yeji likes -> 예지씨가 좋아하는 사람
+Someone who likes Yeji -> 예지씨를 좋아하는 사람
+
+Is there a Korean food that you eat often? -> 자주 먹는 한국 음식 있어요?
+Is there a cafe that you go to often? -> 자주 가는 카페 있어요?
