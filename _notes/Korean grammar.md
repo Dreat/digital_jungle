@@ -552,24 +552,24 @@ In Korean adjectives can be conjugated to different tenses, for example
 - 없다 -> 없는
 
 **Common mistake**
-예쁜 + 이에요 𐄂 -> 예뻐요 ✓
-비싼 + 이에요 𐄂 -> 비싸요 ✓
-라떼 한 잔 주세요. 따뜻한 - 𐄂 (can't be without noun)
-라떼 한 잔 주세요. 따뜻한 라떼. ✓
+- 예쁜 + 이에요 𐄂 -> 예뻐요 ✓
+- 비싼 + 이에요 𐄂 -> 비싸요 ✓
+- 라떼 한 잔 주세요. 따뜻한 - 𐄂 (can't be without noun)
+- 라떼 한 잔 주세요. 따뜻한 라떼. ✓
 
 **Action verbs can be also used as adjectives**
 
 action verb -는 + noun (for verbs ending with ㄹ, drop ㄹ)
 
-This is **a bag I like**
-이 가방은 제가 **좋아하는 가방**이에요.
-This bag is **a bag I liked**
-이 가방은 제가 **좋아한 가방**이에요.
-This bag is **a bag I will like**
-이 가방은 제가 **좋아할 가방**이에요.
+- This is **a bag I like**
+- 이 가방은 제가 **좋아하는 가방**이에요.
+- This bag is **a bag I liked**
+- 이 가방은 제가 **좋아한 가방**이에요.
+- This bag is **a bag I will like**
+- 이 가방은 제가 **좋아할 가방**이에요.
 
-Someone who Yeji likes -> 예지씨가 좋아하는 사람
-Someone who likes Yeji -> 예지씨를 좋아하는 사람
+- Someone who Yeji likes -> 예지씨가 좋아하는 사람
+- Someone who likes Yeji -> 예지씨를 좋아하는 사람
 
-Is there a Korean food that you eat often? -> 자주 먹는 한국 음식 있어요?
-Is there a cafe that you go to often? -> 자주 가는 카페 있어요?
+- Is there a Korean food that you eat often? -> 자주 먹는 한국 음식 있어요?
+- Is there a cafe that you go to often? -> 자주 가는 카페 있어요?
