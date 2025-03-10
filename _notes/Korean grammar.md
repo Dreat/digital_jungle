@@ -47,6 +47,8 @@ title: Korean grammar
 	<li><a href="#butstillnevertheless" class="internal-link">But still, nevertheless</a></li>
 	<li><a href="#looklikeseemlike" class="internal-link">To look like/To seem like</a></li>
 	<li><a href="#adjectives" class="internal-link">Making Adjectives</a></li>
+	<li><a href="#wellthenifso" class="internal-link">Well then, In that case, if so</a></li>
+	<li><a href="#lets" class="internal-link">Let's</a></li>
 </ul>
 </details>
 
@@ -58,6 +60,16 @@ There are two ways of communicating in Korean
 반말 - informal one - to be used with friends
 
 Usually the difference is adding -요 to the end. Also, if there are many ways of saying/writing something, the longer one is more polite one.
+
+| 존댓말                      | 반말                |
+| ------------------------ | ----------------- |
+| 안녕하세요                    | 안녕                |
+| 안녕히 가세요/잘 가요             | 안녕 / 잘 가!         |
+| 안녕히 계세요 / 잘 지내요! / 잘 있어요 | 안녕 / 잘 지내 / 잘 있어! |
+| 저                        | 나                 |
+| -씨, -님                   | 너, -야/-아          |
+| 네 / 예                    | 응 / 어 >> 웅 / 엉    |
+| 아니요 / 아니에요               | 아니 / 아니야          |
 
 ### What {#what}
 
@@ -573,3 +585,28 @@ action verb -는 + noun (for verbs ending with ㄹ, drop ㄹ)
 
 - Is there a Korean food that you eat often? -> 자주 먹는 한국 음식 있어요?
 - Is there a cafe that you go to often? -> 자주 가는 카페 있어요?
+
+
+### Well then, In that case, If so {#wellthenifso}
+
+그러면, 그럼 
+
+```
+if, in case = 만약 -(으)면, or -(으)면
+to be so = 그렇다
+```
+
+
+그러면 is `그렇다 + (으)면` and literaly means ("then" or "in that case")
+
+if you say **그럼!/그럼요** it mean "of course!" or "naturally!"
+
+### Let's {#lets}
+
+A few different ways to say `let's` in Korean
+
+1. - 아/어/여요 (polite/plain)
+2. -(으)시죠 (honorific)
+3. -자 (informal)
+4. -(으)ㄹ래요? (polite/casual)
+5. -(으)실래요? (polite/formal)
