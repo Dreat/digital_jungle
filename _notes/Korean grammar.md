@@ -31,7 +31,7 @@ title: Korean grammar
 	<li><a href="#if" class="internal-link">If/in case</a></li>
 	<li><a href="#stillalready" class="internal-link">Still/already</a></li>
 	<li><a href="#somex" class="internal-link">Someone/Something/Somewhere/Someday</a></li>
-	<li><a href="#imperative" class="internal-link">Imprerative</a></li>
+	<li><a href="#imperative" class="internal-link">Imperative</a></li>
 	<li><a href="#haveshouldmust" class="internal-link">Have to/Should/Must</a></li>
 	<li><a href="#method/way" class="internal-link">Method/way</a></li>
 	<li><a href="#allmore" class="internal-link">All/more</a></li>
@@ -43,12 +43,14 @@ title: Korean grammar
 	<li><a href="#approxabout" class="internal-link">Approximately, About</a></li>
 	<li><a href="#beforenoun" class="internal-link">Before noun</a></li>
 	<li><a href="#beforeing" class="internal-link">Before verb</a></li>
+	<li><a href="#after" class="internal-link">After</a></li>
 	<li><a href="#pluralmarker" class="internal-link">Plural marker</a></li>
 	<li><a href="#butstillnevertheless" class="internal-link">But still, nevertheless</a></li>
 	<li><a href="#looklikeseemlike" class="internal-link">To look like/To seem like</a></li>
 	<li><a href="#adjectives" class="internal-link">Making Adjectives</a></li>
 	<li><a href="#wellthenifso" class="internal-link">Well then, In that case, if so</a></li>
 	<li><a href="#lets" class="internal-link">Let's</a></li>
+	<li><a href="#inorderto" class="internal-link">In order to, For the sake of</a></li>
 </ul>
 </details>
 
@@ -291,6 +293,18 @@ Only + verb
 1. verb in noun form
 2. add -만 하다
 
+- 밖에 = literally outside something, _other than something_, out of range of something
+
+`Noun + -밖에 + negative conjugations`
+
+아침에는 커피밖에 안 마셔요 (I drink nothing but coffee in the morning)
+
+in general -만 and -밖에 are interchangeable, but
+1. You need negative form with -밖에
+2. -밖에 is used more
+3. -밖에 cannot be used with imperative sentences
+4. When verb has a negative meaning, -만 is more commonly used (저는 닭고기만 싫어해요 = I only hate chicken)
+
 ### Irregulars {#irregulars}
 
 |ends with|change|
@@ -445,6 +459,23 @@ example: 공원에 가고 책을 읽었어요 -> I went to the park and I read 
 	1. according to -> -에 따라(서) (뉴스에 따라서 오늘 비가 올 거예요 -> According to the news, it will rain today.)
 	2. for example -> 예를 들어서 (예를 들어서 이렇게 할 수 있어요 -> For example, you can do like this)
 
+#### -아/어/여도 
+same meaning as "그래도" (but still, nevertheless)
+
+#### -는/은/ㄴ데
+1. -는데 is used after action verbs (ㄹ is dropped), after 있다/없다, and after -았 or -겠
+2. -은데 is used after descriptive verbs with have a final consonant in the verb stem, exepct for the consonant ㄹ
+3. -ㄴ데 is used after descriptive verbs with end in a vowel or ㄹ (ㄹ is dropped) and after 이다 and 아니다
+
+This ending has a diverse meaning
+1. Explaining the background or the situation before making a suggestions/request/question -> 내일 일요일인데, 뭐 할 거예요? (It is Sunday tomorrow, what are you going to do?)
+2. Explaining the situation first before explaining what has happened -> 어제 자고 있었는데, 한국에서 전화가 왔어요 (I was sleeping + 는데 + I got phone call from Korea)
+3. Showing a result or situation which is contrasting to the previous action or situation -> 아직 9시인데 벌써 졸려요 (it is still 9 o'clock, but I am already sleepy)
+4. As 3, but second part can be omitted for implied meaning (bit sassy) -> 준비 많이 했는데(요)...
+5. Showing surprise or exclamation -> 멋있는데(요)! (Oh, that is cool!)
+6. Asking a question (expecting some explanation about a situation or behaviour) -> 지금 어디에 있는데(요)? (So where are you now?)
+7. Expecting an answer or a response -> 지금(요)? 지금 바쁜데(요)... (Now? I am busy now, so...)
+
 ### Shall we?/I wonder... {#shallweiwonder}
 
 -(으)ㄹ 까요?
@@ -489,6 +520,22 @@ change verb into noun (-기 form) + 전에
 집에 가기 전에 일 끝내세요 - finish your work before going home
 
 공부 하기 전에 먹으세요 - eat before you study
+
+### After {#after}
+
+다음에, 후에, 뒤에
+
+after -ing
+- -(으)ㄴ + 다음에
+- -(으)ㄴ + 후에
+- -(으)ㄴ + 뒤에
+
+to go home = 집에 가다
+
+after going home:
+1. 집에 간 다음에
+2. 집에 간 후에
+3. 집에 간 뒤에
 
 ### Plural marker {#pluralmarker}
 
@@ -610,3 +657,16 @@ A few different ways to say `let's` in Korean
 3. -자 (informal)
 4. -(으)ㄹ래요? (polite/casual)
 5. -(으)실래요? (polite/formal)
+
+
+### In order to, For the sake of {#inorderto}
+
+위해, 위해서 = in order, for
+
+위하다 => 위해 (위하여) / 위해서 (위하여서)
+
+noun + -을/를 위해서
+- 건강을 위해(서) = for health/for the sake of health/in order to be healthy
+- 회사를 위해(서) = for the company/for the good of the company
+
+"위해(서)" in a sentence sounds very formal. In casual, spoken conversation -(으)려고 or 위한 is used
