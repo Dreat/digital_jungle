@@ -51,6 +51,7 @@ title: Korean grammar
 	<li><a href="#wellthenifso" class="internal-link">Well then, In that case, if so</a></li>
 	<li><a href="#lets" class="internal-link">Let's</a></li>
 	<li><a href="#inorderto" class="internal-link">In order to, For the sake of</a></li>
+	<li><a href="#maybeimight" class="internal-link">Maybe I might</a></li>
 </ul>
 </details>
 
@@ -670,3 +671,29 @@ noun + -을/를 위해서
 - 회사를 위해(서) = for the company/for the good of the company
 
 "위해(서)" in a sentence sounds very formal. In casual, spoken conversation -(으)려고 or 위한 is used
+
+### Maybe I might {#maybeimight}
+
+-(으)ㄹ 수도 있어요 = 
+- it could...
+- it is possible that...
+- it might
+
+1. -(으)ㄹ 수 있다 -> can, to be able to
+2. -도 -> also, too
+
+The word 수 is a noun which means "way", "method" or "idea". Therefore -(으)ㄹ 수 있다 means "there is a way to do...", "there is an idea for doing..." or "there is a possibility for doing..."
+
+Adding -도 (too/also) changes the meaning to "to also be able to do something".
+
+It usually means "it might", "it could" or "perhaps".
+
+- to meet = 만나다
+- might meet = 만날 수도 있다
+- we might meet again tomorrow = 내일 다시 만날 수도 있어요
+
+**important**:
+1. I might not come here tomorrow => 저는 내일 다시 안 올 수도 있어요
+2. I might not be able to come here tomorrow
+	- 저는 내일 다시 올 수 없을 수도 있어요
+	- 저는 내일 다시 몾 올 수도 있어요
