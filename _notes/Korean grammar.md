@@ -52,6 +52,7 @@ title: Korean grammar
 	<li><a href="#lets" class="internal-link">Let's</a></li>
 	<li><a href="#inorderto" class="internal-link">In order to, For the sake of</a></li>
 	<li><a href="#maybeimight" class="internal-link">Maybe I might</a></li>
+	<li><a href="#neyo" class="internal-link">-네요 verb ending</a></li>
 </ul>
 </details>
 
@@ -697,3 +698,15 @@ It usually means "it might", "it could" or "perhaps".
 2. I might not be able to come here tomorrow
 	- 저는 내일 다시 올 수 없을 수도 있어요
 	- 저는 내일 다시 몾 올 수도 있어요
+
+
+### -네요 verb ending {#neyo}
+It is used in case of being impressed, surprised, or one's own personal thought. This is used quite frequently
+
+Verb stem + -네요
+
+- 크네요! = (I see that) it is big! / (I did not know it was but, but) is it big. (expressing surprise)
+- 잘 어울리네요! = Oh, I think that it looks good on you (expressing impression)
+- 맞네요 = I see that it is correct! (Finding out a fact for the first time)
+- 여기 있네요! = oh, here it is!
+- 벌써 11원이네요 = wow, it is already November

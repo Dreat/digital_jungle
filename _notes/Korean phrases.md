@@ -251,3 +251,23 @@ _(with verbs)_
 | 모닝콜         | wake-up call (morning call)    |
 | 서비스         | one the house (service)        |
 | 린스          | har conditioner (rinse)        |
+
+### Word builder
+
+학 is related to "learning", "studying", "school"
+
+- 학 + 생 (person, member, participant) = 학생 = student
+- 학 + 교 (school) = 학교 = school
+- 학 + 원 (house, garden) = 학원 = private academy
+- 수 (number) + 학 = 수학 = mathematics
+- 과 (subject, class, species) + 학 = 과학 = science
+- 어 (word) + 학 = 어학 = language learning
+- 언어 (word + word) + 학 = 언어학 = linguistics
+- 경제 (economy) + 학 = 경제학 = economics
+- 학 + 년 (year) = 학년 = school year (grade)
+- 학 + 기 (period) = 학기 = semester
+- 방 (to release, let go) + 학 = 방학 = school vacation
+- 장학금 = scholarship
+- 장학생 = student on a scholarship
+- 복학생 = student who has returned to school (usually) after a long break, returning student
+- 독학 = self-study, studying by oneself
