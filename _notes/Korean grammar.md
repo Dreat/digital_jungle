@@ -146,6 +146,16 @@ This book is good
 
 (there are no other books as good as this one)
 
+1. Once mentioned, a subject is given `은/는`. The subject is turned into a topic.
+	- 그 강아지는 예뻐요 = The dog is pretty
+	- 공원에 강아지가 있어요 = There is a dog at the park
+2. `은/는` can be also used for things that are not subjects. Use `은/는` when it means _this topic is a little_ **different** _from other topics_
+	- 여기에 한국인이 많아요. 근데 저는 미국인이에요. = There are a lot of Koreans here. But I am American
+	- 저는 강아지를 좋아하는데 고양이는 안 좋아해요 = I like dogs, but I don't like cats
+3. If **the subject** is important, use `이/가`. If anything other than the subject is more imporant, use the `은/는`.
+	- 누가 드랫이에요? 제가 드랫이에요. (Who is Dreat? I am Dreat => **I(저)** is more important than the name)
+	- 이름이 뭐예요? 제 이름은 드랫이에요 (저**는** **드랫**이에요 / 드랫이 제 이름이에요) = What is your name? My name is Dreat (I am Dreat) (name is more important than `I(저)`)
+
 ### Object markers {#object}
 
 -을/-를
