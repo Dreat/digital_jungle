@@ -74,6 +74,67 @@ Usually the difference is adding -요 to the end. Also, if there are many ways o
 | -씨, -님                   | 너, -야/-아          |
 | 네 / 예                    | 응 / 어 >> 웅 / 엉    |
 | 아니요 / 아니에요               | 아니 / 아니야          |
+| 이거 뭐예요?                  | 이거 뭐야?            |
+| 이거 뭐였어요?                 | 이거 뭐였어?           |
+| 내일 일 할 거예요               | 내일 일 할 거야         |
+Politeness levels are determined by the verb ending. There are three basic verb endings used to express different politeness levels
+1. -ㅂ니다 = the most polite and most formal ending
+2. -(아/어/여)요 = the polite, natural and slightly formal ending
+3. 아/어/여 = the casual, informal and intimate ending
+
+반말 can be only used:
+1. with someone who is younger
+2. someone of the same age
+3. someone with whom you agreed to mutually use 반말
+If other person's age or social status is not known, do not use 반말. Once you know other's person's age and find out they are younger than you, you can use 반말, however it's safer, as well as a nice gesture, to ask the person whether you can use 반말.
+
+Common cases for using 반말
+1. You are much older
+2. You are older than the other person and you got their permission to use 반말
+3. You are the same age and you got their permission to use 반말
+4. Students in same age group
+5. Talking to yourself or writing in a diary/journal
+
+Common cases to **NOT** use 반말
+1. You know the other person only through work and not personally
+2. You are older than the other person, but they are your business client or customer
+3. You are older than the other person, but you are talking in an official environment (like business meeting, seminars, lessons)
+4. You just met the other person.
+5. You are younger and never got permission from the other person to use 반말 with them
+6. You are the same age, but you are both adults and you do not know each other that well
+7. You are older, but the other person is your boss
+8. You are older than the other person, but they are the spouse of your sibling
+9. You are talking to a large group of people or filming a video blog
+
+How to ask for 반말?
+
+If you are the older one
+```
+말 놔도 돼요? = May I speak 반말 with you?
+말 = language, word
+놓다 = put down
+말을 놓다 literally means "put down the language" or "lower the language"
+
+말 편하게 해도 돼요? = May I speak comfortably with you?
+편하다 comfortable
+편하게 comfortably
+```
+
+If you are the younger one
+```
+말 놓으셔도 돼요 = You can speak casually with me
+놓다 >> 놓으시다
+
+말 편하게 하셔도 돼요 = You can speak comfortably with me
+하다 >> 하시다
+```
+
+If you are of the same age
+```
+우리 말 놓을까요? = Shall we speak 반말 to each other?
+말 편하게 해도 되죠? (-지요=--죠) = I can talk in 반말 with you, right?
+```
+
 
 ### What {#what}
 
@@ -132,7 +193,7 @@ example: 책 다섯 권 = five books
 
 **example**
 
-이거는 사과 예요.
+이거는 사과예요.
 
 (The other things are not apples, but) this is an apple.
 
