@@ -254,7 +254,9 @@ _(with verbs)_
 
 ### Word builder
 
-학 is related to "learning", "studying", "school"
+#### 학
+
+**학** is related to "learning", "studying", "school"
 
 - 학 + 생 (person, member, participant) = 학생 = student
 - 학 + 교 (school) = 학교 = school
@@ -271,3 +273,19 @@ _(with verbs)_
 - 장학생 = student on a scholarship
 - 복학생 = student who has returned to school (usually) after a long break, returning student
 - 독학 = self-study, studying by oneself
+
+#### 실
+
+**실** is related to "room"
+
+교 (school, teach) + 실 = 교실 = classroom
+연습 (practice) + 실 = 연습실 = practice room
+사무 (office work, desk job) + 실 = 사무실 = office
+병 (disease) + 실 = 병실 = hospital room, patient's room
+대기 (wait) + 실 = 대기실 = waiting room
+화장 (makeup) + 실 = 화장실 = toilet, bathroom
+분장 ((stage/theatre)makeup) + 실 = 분장실 = dressing room, backstage room (specific to stage/theatre makeup)
+회의 (meet) + 실 = 회의실 = meeting room, conference room
+실 + 장 (head, leader) = 실장 = head of the office
+실 + 내 (inside) = 실내 = indoors
+실 + 외 (outside) = 실외 = outdoors, outside
