@@ -251,6 +251,20 @@ _(with verbs)_
 | 모닝콜         | wake-up call (morning call)    |
 | 서비스         | one the house (service)        |
 | 린스          | har conditioner (rinse)        |
+### Exchanging Numbers
+
+번호교환
+
+- to be glad (to meet) = 반갑다
+- to let (someone) know = 알려 주다 (알리다 + -아/어/여 주다)
+- to let (someone) know (honorific) = 알려 드리다
+- business card = 명함
+- number = 번호 (specific number ex. phone, house, bus number), 숫자 (any number, ex. number 4)
+- mobile phone = 핸드폰, 휴대폰, 스마트폰
+- contact information = 연락처
+- to save = 저장하다
+- to see, to meet (honorific) = 뷥다
+
 
 ### Word builder
 
