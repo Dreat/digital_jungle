@@ -53,6 +53,7 @@ title: Korean grammar
 	<li><a href="#inorderto" class="internal-link">In order to, For the sake of</a></li>
 	<li><a href="#maybeimight" class="internal-link">Maybe I might</a></li>
 	<li><a href="#neyo" class="internal-link">-네요 verb ending</a></li>
+	<li><a href="#themorethemore" class="internal-link">The more..., the more ... </a></li>
 </ul>
 </details>
 
@@ -781,3 +782,28 @@ Verb stem + -네요
 - 맞네요 = I see that it is correct! (Finding out a fact for the first time)
 - 여기 있네요! = oh, here it is!
 - 벌써 11원이네요 = wow, it is already November
+
+### The more ..., the more... {#themorethemore}
+
+-(으)면 -(으)ㄹ수록
+
+the more A(verb), the more B(verb) = A-(으)ㄹ수록 B
+
+examples:
+- The more delicious it is, the better is sells = 맛있을수록 잘 팔려요
+- The more busy you are, the more important your health is = 바쁠수록 건강 더 중요해요
+- The more people, the better = 사람이 많을수록 더 좋아요
+
+-(으)ㄹ수록 can also mean (depending on context of conversation)
+- "Even more so, especially when..." - 학생일수록 책을 많이  읽어야 돼요 = You need to read a lot of books, even more so if you are a student
+- "Especially if..." or "Even more..." 
+- "Particularly when..." - 바쁠수록 더 자야 돼요 = You need to sleep more, particularly when you are busy
+
+If you want to emphasise a bit more, you can use -(으)면 before -(으)ㄹ수록
+
+- The busier you are... = 바쁠수록 = 바쁘면 바쁠수록
+- The better is it... = 좋을수록 = 좋으면 좋을수록
+
+**갈수록** comes from 가다 + -(으)ㄹ수록. It literally means "the more you go", but it's used as "more and more so in time" or "as time goes by"
+- It keeps getting colder = 갈수록 추워요
+- Dreat keeps getting better at Korean - 드랫은 갈수록 한국어를 잘해요
