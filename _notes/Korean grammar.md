@@ -394,22 +394,24 @@ in general -만 and -밖에 are interchangeable, but
 
 ### Irregulars {#irregulars}
 
-|ends with|change|
-|---|---|
-|ㅅ|remove ㅅ|
-|ㄷ|ㄷ => ㄹ|
-|last vowel ㅗ + ㅂ| remove ㅂ, add 오아|
-|last vowel not ㅗ + ㅂ| remove ㅂ, add 우어|
-|vowel in 2nd last syllable ㅏ/ㅗ + ㅡ|ㅡ => ㅏ|
-|vowel in 2nd last syllable not ㅏ/ㅗ + ㅡ|ㅡ => ㅓ|
-|last vowel ㅏ/ㅗ + 르|르 => ㄹ + 라|
-|last vowel not ㅏ/ㅗ + 르|르 => ㄹ + 러|
+| ends with                              | change           |
+| -------------------------------------- | ---------------- |
+| ㅅ                                      | remove ㅅ         |
+| ㄷ                                      | ㄷ => ㄹ           |
+| last vowel ㅗ + ㅂ                       | remove ㅂ, add 오아 |
+| last vowel not ㅗ + ㅂ                   | remove ㅂ, add 우어 |
+| vowel in 2nd last syllable ㅏ/ㅗ + ㅡ     | ㅡ => ㅏ           |
+| vowel in 2nd last syllable not ㅏ/ㅗ + ㅡ | ㅡ => ㅓ           |
+| last vowel ㅏ/ㅗ + 르                     | 르 => ㄹ + 라       |
+| last vowel not ㅏ/ㅗ + 르                 | 르 => ㄹ + 러       |
+
 but!
 - 입다 -> 입어요 -> 임을 거예요 (to wear)
 - 잡다 -> 잡아요 -> 잡을 거예요 (to catch)
 - 씹다 -> 씹어요 -> 씹을 거예요 (to chew)
 - 좁다 -> 좁아요 -> 좁을 거예요 (to be narrow)
 - 넓다 -> 넓어요 -> 넓을 거예요 (to be wide)
+
 ### More than {#morethan}
 
 A보다 더 = more than A
