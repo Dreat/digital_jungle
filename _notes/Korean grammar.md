@@ -78,6 +78,7 @@ Usually the difference is adding -요 to the end. Also, if there are many ways o
 | 이거 뭐예요?                  | 이거 뭐야?            |
 | 이거 뭐였어요?                 | 이거 뭐였어?           |
 | 내일 일 할 거예요               | 내일 일 할 거야         |
+
 Politeness levels are determined by the verb ending. There are three basic verb endings used to express different politeness levels
 1. -ㅂ니다 = the most polite and most formal ending
 2. -(아/어/여)요 = the polite, natural and slightly formal ending
@@ -250,6 +251,18 @@ Add -고 있어요
 ### Want {#want}
 
 Add -고 싶어요
+
+#### Do you want to...? -(으)ㄹ래요?
+It is built based on the future tense. It is used when expressing the intent of the will to do something. With question mark it changes to "do you want to...?". When used as a statement it can mean "I want to..." or "I am going to...".
+
+1. 집에 가고 싶어요 = I want to go home (most general and vague way)
+2. 집에 갈게요 = (if so) I will go home (looking for feedback / reacting to the situation)
+3. 집에 갈 거예요 = I am going to go home (most direct)
+4. 집에 갈래요 = something between "I want to go home" and "I am going to go home"
+
+혼자 할래요 vs 혼자 할게요 -> second sounds much nicer, but both mean "I will do it alone"
+
+저는 안 가래요 (I do not want to go/I am not going to go) vs 저는 안 가고 싶어요 (If you really insist, I might go)
 
 ### Negation {#negation}
 
