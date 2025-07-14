@@ -65,11 +65,11 @@ Each chord in a key has a function.
 
 For major key
 
-| Tonic | Subdominant | Dominant        |
-| ----- | ----------- | --------------- |
-| I     | ii          | V               |
-| ii    | IV          | vii[^6]<br><br> |
-| vi    |             |                 |
+| Tonic | Subdominant | Dominant |
+| ----- | ----------- | -------- |
+| I     | ii          | V        |
+| iii   | IV          | vii[^6]  |
+| vi    |             |          |
 
 C Dm Em F G Am Bdim can change to
 Cmaj7 Dm7 Em7 Fmaj7 G7 Am7 Bm7(b5)
@@ -90,8 +90,8 @@ Am7 Bm7(b5)[^7] Cmaj7 Dm Em7[^8] Fmaj7 G7[^8]
 
 - 8 bar phrase
 - **basic idea**[^9] - 2 bars
-- **antecedent** = basic idea, ends with half cadence[^10] - 4 bars
-- **consequent** - basic idea[^11], ends with authentic cadence - 4 bars
+- **antecedent** = basic idea + 2bars that end with half cadence[^10] - 4 bars
+- **consequent** - basic idea[^11] + 2 bars that end with authentic cadence - 4 bars
 - period = antecedent + consequent. It's bit like question and answer, or saying basic idea, "not sure where to go", repeat basic idea and lead somewhere satisfying.
 
 Period is a very balanced form. ABAC is good representation of it.
@@ -104,7 +104,7 @@ Period is a very balanced form. ABAC is good representation of it.
 - bars 5&6 -> **continuation** -> there's "more something"[^12]
 - bars 7&8 -> any cadence
 
-because of open end easy to move on, but more difficult to use repetition to extent beyond 8 bars due to repetitive nature of beginning. AABC is good representation of it
+because of open end it is easy to move on, but more difficult to use repetition to extend beyond 8 bars due to repetitive nature of beginning. AABC is good representation of it
 
 [^9]: pretty harmonically stable
 
@@ -151,7 +151,7 @@ very useful in continuation of sentence form
 example:
 
 1. in key of C we have Dm chord
-2. in key of Dm we have A(A7) as dominant chord
+2. in key of D we have A(A7) as dominant chord
 3. we can "borrow" that A7 and lead into Dm even in a context of C
 
 Basically, we can create a "pull" into any chord[^15] and add some extra color (C# in A in example above)
