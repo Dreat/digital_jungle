@@ -416,7 +416,7 @@ but!
 
 A보다 더 = more than A
 
-수박은 사과부다 더 커요 = A watermelon is bigger than an apple
+수박은 사과보다 더 커요 = A watermelon is bigger than an apple
 
 ### If/in case {#if}
 

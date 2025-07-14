@@ -251,6 +251,7 @@ _(with verbs)_
 | 모닝콜         | wake-up call (morning call)    |
 | 서비스         | one the house (service)        |
 | 린스          | har conditioner (rinse)        |
+
 ### Exchanging Numbers
 
 번호교환
