@@ -20,6 +20,7 @@ title: Korean grammar
 	<li><a href="#negation" class="internal-link">Negation</a></li>
 	<li><a href="#verbintonoun" class="internal-link">Verb into noun</a></li>
 	<li><a href="#cancannot" class="internal-link">Can/cannot do</a></li>
+	<li><a href="#itcantbe" class="internal-link">It can't be</a></li>
 	<li><a href="#descriptiveverbs" class="internal-link">Descriptive verbs</a></li>
 	<li><a href="#place" class="internal-link">Place</a></li>
 	<li><a href="#fromto" class="internal-link">From/to</a></li>
@@ -54,6 +55,7 @@ title: Korean grammar
 	<li><a href="#maybeimight" class="internal-link">Maybe I might</a></li>
 	<li><a href="#neyo" class="internal-link">-네요 verb ending</a></li>
 	<li><a href="#themorethemore" class="internal-link">The more..., the more ... </a></li>
+	<li><a href="#ji" class="internal-link">-지(요)</a></li>
 </ul>
 </details>
 
@@ -294,6 +296,20 @@ or add `-(으)ㄴ/는/(으)ㄹ 것 `
 
 1. Drop 다
 2. Add (으)ㄹ 수 있다/없다
+
+### It can't be -(으)ㄹ 리가 없어요 {#itcantbe}
+
+`리` means "reason" or "logic" and can be found in `이유(reason)` and `논리(logic)`
+
+given that, the structure -(으)ㄹ 리가 없어요 literally means "there is no reason that..." -> it's used as "it cannot be..." or "it is impossible...".
+
+`그렇다` is a very common expression thatmeans "to be so". (ㅎ is usually dropped with verb endings)
+
+그러 + ㄹ리가 없어요 = 그럴 리가 없어요! = It cannot be/That is impossible!
+
+을 리가 없어요 can be places after tense suffix -았/었/였. In that case, it always starts with -을. (ex: 갔을 리가 없어요 -> There is no way that he/she went)
+
+For future tense use present verb form + add words that indicate future (ex: 내일 -> 내일 일요일일 리가 없어요 -> there is no way that tomorrow is Sunday)
 
 ### Descriptive verbs {#descriptiveverbs}
 
@@ -822,3 +838,16 @@ If you want to emphasise a bit more, you can use -(으)면 before -(으)ㄹ수�
 **갈수록** comes from 가다 + -(으)ㄹ수록. It literally means "the more you go", but it's used as "more and more so in time" or "as time goes by"
 - It keeps getting colder = 갈수록 추워요
 - Dreat keeps getting better at Korean - 드랫은 갈수록 한국어를 잘해요
+
+
+### -지(요) {#ji}
+
+it's a verb ending that subtly changes meaning. Use it when
+
+1. talking about something, supposing that** the other person also already knows** about it
+2. both you and the other person know about something or have a common opinion about something, and you are **just mentioning the fact again**
+3. (as interrogative/question ending) both you and the other person know about something, but you are just **reassuring yourself** by asking a question
+4. (as interrogative/question ending) you know about something, and you are **asking yourself to confirm** the fact. In this case, do not use 존댓말
+5. (as interrogative/question ending) you do not know something, so you are asking yourself a question. **Usually you are thinking out loud and asking the other people around you at the same time**. 반말 is used in this case as well.
+
+When speaking in 존댓말, the verb ending -지요 often changes to -죠 for simplicity and ease of pronunciation. 
