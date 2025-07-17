@@ -267,6 +267,43 @@ _(with verbs)_
 - to see, to meet (honorific) = 뷥다
 
 
+### 당신 (you)
+
+Use with caution in real life conversations - "you" is rarely used, especially when speaking 존댓말 or more format language.
+
+Uses of `당신`
+
+1. you are **angry at someone** and do not mind fighting or arguing with that person
+	1. 당신 뭐야? / 너 뭐야? = who do you think you are? what are you?
+	2. 당신 뭐가 문제야? / 너 뭐가 문제야? = what is your problem?
+2. you are **translating a foreign language** and you absolutely must have *a word for "you"*
+3. you are **writing or singing a song**, or using indirect language in general
+	1. (both 2 and 3)
+	2. 당신의 눈은 참 아름다워요 = your eyes are so beautiful
+	3. 당신에게 이 노래를 바칩니다 = I dedicate this song to you
+4. you are addressing your spouse (commonly used among middle-aged or older people)[^1]
+	1. 당신 지금 어디예요? = honey, where are you?
+	2. 당신 지금 어디야? = honey, where are you?
+5. (rare case) you are talking about someone (**who is not present**) in an honorific way and *want to say "he" or "she"*
+
+### 괜찮아요
+
+1. Present tense = 괜찮아요
+2. Past tense = 괜찮았어요
+3. Future tense = 괜찮을 거예요
+
+uses:
+
+1. I am okay / I am alright / Everything is fine [^4]
+2. Do not worry [^5]
+3. It is good [^6]
+4. I'm good / I'm cool/  No, thanks [^7]
+
+### Slang
+
+- 맞을래? - do you want to be hit? [^8]
+- 죽을래? - do you want to die? [^8]
+
 ### Word builder
 
 #### 학
@@ -304,3 +341,29 @@ _(with verbs)_
 실 + 장 (head, leader) = 실장 = head of the office
 실 + 내 (inside) = 실내 = indoors
 실 + 외 (outside) = 실외 = outdoors, outside
+
+[^1]: other words that can replace 당신 in this usage are 여보 (most common) and 자기 (more common among young couples)
+
+#### 동
+
+동 is related to movement, move, to move
+
+운 (to tranport) + 동 = 운동 = exercise, workout
+작 (to make) + 동 = 작동 = operation (of a device)
+활 (to flow, to be alive) + 동 = 활동 = activity[^2]
+연 (to connect) + 동 = 연동 = linkage, interlocking[^3]
+동 + 영(to project) + 상(image) = 동영상 = video
+
+[^2]: 온라인 활동 = online activities
+
+[^3]: ex: 페이스복 연동
+
+[^4]: ex You slip and fall and someone asks you if you are alright
+
+[^5]: ex: your friend is worrying about something and you want to tell them to not worry
+
+[^6]: you refer to something as "cool", "good" or "recommendable"
+
+[^7]: your friend offers you a drink and you want to politely refuse it
+
+[^8]: not literally, used to express annoyance or "don't" in informal way

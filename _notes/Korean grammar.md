@@ -56,6 +56,10 @@ title: Korean grammar
 	<li><a href="#neyo" class="internal-link">-네요 verb ending</a></li>
 	<li><a href="#themorethemore" class="internal-link">The more..., the more ... </a></li>
 	<li><a href="#ji" class="internal-link">-지(요)</a></li>
+	<li><a href="#itsokay" class="internal-link">It's okay to / You don't have to</a>
+	</li>
+	<li><a href="#shouldnot" class="internal-link">You shouldn't / You're not supposed to</a>
+	</li>
 </ul>
 </details>
 
@@ -851,3 +855,32 @@ it's a verb ending that subtly changes meaning. Use it when
 5. (as interrogative/question ending) you do not know something, so you are asking yourself a question. **Usually you are thinking out loud and asking the other people around you at the same time**. 반말 is used in this case as well.
 
 When speaking in 존댓말, the verb ending -지요 often changes to -죠 for simplicity and ease of pronunciation. 
+
+
+### It's okay to / You don't have to {#itsokay} 
+
+`-아/어/여도 되다`
+
+`되다` means "to function", "to be possible" or "can do"
+
+1. to turn on, to switch on -> 켜다
+2. it is okay to turn... on, it is okay even if you switch...on -> 켜도 되다
+3. it is okay. you can turn it on -> 켜도 돼요
+4. you can turn the light on -> 불을 켜도 돼요
+5. you can turn the computer on -> 컴퓨터를 켜도 돼요
+
+  
+1. to do -> 하다
+2. it is okay to do / it is okay even if you do -> 해도 되다
+3. it is okay if you do it tomorrow / you can just do it tomorrow -> 내일 해도 돼요
+4. is it okay if I do it tomorrow? -> 내일 해도 돼요?
+
+To say "do not have to" or "it is not necessary to" add `안` before whole verb[^1]
+
+### You shouldn't / You're not supposed to {#shouldnot}
+
+`-(으)면 안 돼요`
+
+
+
+[^1]: 해도 돼요 <-> 안 해도 돼요
