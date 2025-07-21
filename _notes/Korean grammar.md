@@ -60,6 +60,8 @@ title: Korean grammar
 	</li>
 	<li><a href="#shouldnot" class="internal-link">You shouldn't / You're not supposed to</a>
 	</li>
+	<li><a href="#amongbetween" class="internal-link">Among, Between</a></li>
+	<li><a href="#any" class="internal-link">Any</a></li>
 </ul>
 </details>
 
@@ -881,6 +883,116 @@ To say "do not have to" or "it is not necessary to" add `안` before whole verb[
 
 `-(으)면 안 돼요`
 
+되다 means "to function", "to be possible" or "can do", so `-(으)면 안 되요` literally means "it is not okay if"/"it is not acceptable if"; it is used as "you should not..."/"you are not supposed to..."
+
+examples:
+
+1. 열면 안 돼요 - You should not open it / You are not supposed to open it 
+2. 열면 안 돼요? - Should I not open it? / Am I not supposed to open it?
+3. 열면 안 돼! - (to a child) You should not open it
+4. 열어도 돼요 - Is it okay to open it / You can go ahead and open it
+5. 열어도 돼요? - Can I open it?
+
+
+### Among, between {#amongbetween}
+
+**중에서, 사이에서, 사이에**
+
+#### 중에서
+
+it means "among" or "between", but it can only be used when listing **a few options** to choose from.
+
+It **cannot** be used to describe location (ex: "the house is located between the bank and the park").
+
+examples:
+
+1. A하고 B 중에서 = between A and B
+2. 이 책하고 저 책 중에서 = between this book and that book
+3. 이 세 개 중에서 = among these three things
+4. 열 명 중에서 = among ten people
+5. 이 중에서 걸라 주세요 = please choose among these
+6. 이 세 개 중에서 하나 사져가세요 = please take one of these three
+
+#### 사이에서
+
+It is used to explain relationship or the theoretical space between certain objects or people
+
+examples:
+
+1. 친구들 사이에서 인기가 많아요 = he is popular among friends
+2. 이 가수는 한국사람들 사이에서 인기가 많아요 = this singer is popular among Koreans
+
+#### 사이에
+
+It is used to refer to the physical space between object or people
+
+examples:
+
+1. 은행하고 공원 사이에 있어요 = I am between the bank and the park
+2. 약국은 학교하고 경찰서 사이에 있어요 = the pharmacy is between the school and the police station
+
+
+### Any (#any)
+
+`아무`
+
+It is used to say "anyone", "anything", or "anywhere". It basically means "any" _in a positive context_ and it **HAS TO** be used along with other nouns - no exceptions. When used in a negative context it means "no + \<noun\>"
+
+For positive sentences, add -나 at the end of the word
+
+- 아무나 = anybody, anyone
+	- 아무나 올 수 있어요 = anyone can come
+- 아무거나 = anything[^2]
+	- 아무거나 주세요 = just give me anything
+- 아무 데나 = anywhere, any place[^3]
+	- 아무 데나 좋아요 = any place is good
+
+For negative sentences, add -도 at the end of the word
+
+- 아무도 = nobody
+	- 아무도 안 왔어요? / 아무도 없어요? = Nobody is here?
+- 아무곳도 = nothing
+	- 아무것도 만지지 마세요 = do not touch anything
+	- 아무것도 몰라요 = I don't know anything
+- 아무 데도 = nowhere
+	- 아무 데도 안 갈 거예요 = I am not going anywhere
+
+If you want someone to be careful making a choice, you can use positive sentence in negative context
+
+examples:
+
+- 아무나 올 수 없어요 = not everyone can come
+- 아무도 올 수 없어요 = nobody can come
+- 아무거나 먹으면 안 돼요 = you should not eat just anything
+- 아무것도 먹으면 안 돼요 = you should not eat anything at all
+- 아무 데나 가고 싶지 않아요 = I do not want to go just anywhere
+- 아무 데도 가고 싶지 않아요 = I do not want to go anywhere
+
+More 아무 phrases
+
+- 아무 때나 = anytime
+- 아무 말도[^4] / 아무 이야기도 = no word, no mention
+- 아무렇지도 않다[^5] = to be okay, to be alright, to be unaffected by
+- 아무한테도 = to nobody[^6]
+- 아무렇게나[^7] = just in any way, however you like it
+- 아무(런) + noun + -도 + (없어요) = there is no + noun (of any kind)
+	- 아무(런) 소식도 없어요 = there is no news[^8]
+
+
 
 
 [^1]: 해도 돼요 <-> 안 해도 돼요
+
+[^2]: it comes from 아무 + 것이나; 것 means thing
+
+[^3]: 데 means "place" or "spot". While 곳 also means place, it cannot be used here
+
+[^4]: 아무 말이나 = any word
+
+[^5]: 아무 + 그렇다 (to be so) + 지 않다 (to be not); it works only in a negative format
+
+[^6]: <=> 아무한테나 = to anybody
+
+[^7]: 아무렇게 works only here in this case, cannot be used independently
+
+[^8]: 뉴스 is used for TV/newspaper news, for gossip/news from friends/family 소식 is used

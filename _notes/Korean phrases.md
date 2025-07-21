@@ -354,6 +354,15 @@ uses:
 연 (to connect) + 동 = 연동 = linkage, interlocking[^3]
 동 + 영(to project) + 상(image) = 동영상 = video
 
+#### 중
+
+중 means "center" or "middle"
+
+중 + 학교 (school) = 중학교 (middle school)
+중 + 식 (eat) = 중식 (format name for "lunch")
+회의 (meeting, conference) + 중 = 회의중 (meeting in progress)
+공사 (construction) + 중 = 공사중 (under construction)
+
 [^2]: 온라인 활동 = online activities
 
 [^3]: ex: 페이스복 연동
