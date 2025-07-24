@@ -2,7 +2,7 @@
 title: Korean phrases
 ---
 
-<status>Status: 🌱 </status>
+<status>Status: 🌿 </status>
 
 ### Thank you
 

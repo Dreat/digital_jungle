@@ -6,3 +6,4 @@ title: Korean
 
 - [[Korean phrases]]
 - [[Korean grammar]]
+- [[Korean translations]]
